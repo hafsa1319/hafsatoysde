@@ -1,0 +1,2441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="de" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://hafsatoys.de/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://hafsatoys.de/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://hafsatoys.de/collections/alle-produkte.atom"/>
+  <title>Hafsa Toys</title>
+  <updated>2022-11-20T11:26:39+01:00</updated>
+  <author>
+    <name>Hafsa Toys</name>
+  </author>
+  <entry>
+    <id>https://hafsatoys.de/products/8028096364809</id>
+    <published>2022-11-20T11:26:39+01:00</published>
+    <updated>2022-11-20T11:26:39+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hafsatoys.de/products/bausatz-spieluhr-geburtstag"/>
+    <title>Bausatz Spieluhr &quot;Geburtstag&quot;</title>
+    <s:type></s:type>
+    <s:vendor>Small Foot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0642/0139/2393/products/BausatzSpieluhr_Geburtstag_-1000.png?v=1668940005"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Small Foot<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Spielen, Spaß haben und lernen!<br><br>Der 3D-Spieluhr-Bausatz hat 77 Teile und eine besondere Struktur. Private verwandelt sich in eine Spieluhr mit einer sich drehenden hölzernen Geburtstagstorte. Melodie "In der guten alten Sommerzeit".</p>
+<div class="uk-width-medium-1-2" data-mce-fragment="1">
+<table class="uk-table" style="width: 562px;" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td style="width: 204.453px;" data-mce-fragment="1">Abmessungen</td>
+<td style="width: 338.547px;" data-mce-fragment="1"><span data-mce-fragment="1">Ungefähr. 7x8x13 cm</span></td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 204.453px;" data-mce-fragment="1">Tag</td>
+<td style="width: 338.547px;" data-mce-fragment="1">Kleine Füße</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 204.453px;" data-mce-fragment="1">Material</td>
+<td style="width: 338.547px;" data-mce-fragment="1">Holz, Metall</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 204.453px;" data-mce-fragment="1">Anfangsalter</td>
+<td style="width: 338.547px;" data-mce-fragment="1"><span mce-data-marked="1" data-mce-fragment="1">ab 5 Jahren</span></td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 204.453px;" data-mce-fragment="1">Geschlecht</td>
+<td style="width: 338.547px;" data-mce-fragment="1">männlich, weiblich</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="uk-width-medium-1-2" data-mce-fragment="1">
+<table class="uk-table" style="width: 562px;" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td style="width: 207.219px;" data-mce-fragment="1">Art der Verpackung</td>
+<td style="width: 337.781px;" data-mce-fragment="1"><span data-mce-fragment="1">small foot Umschlag</span></td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 207.219px;" data-mce-fragment="1">Gewicht der Tinte. Verpackung (vulgär)</td>
+<td style="width: 337.781px;" data-mce-fragment="1"><span data-mce-fragment="1">0.39kg</span></td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 207.219px;" data-mce-fragment="1">EAN-Kode</td>
+<td style="width: 337.781px;" data-mce-fragment="1"><span data-mce-fragment="1">4020972102911</span></td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 207.219px;" data-mce-fragment="1">Besondere Merkmale</td>
+<td style="width: 337.781px;" data-mce-fragment="1">Artikel mit Tonfunktion, Artikel mit Magnetfunktion</td>
+</tr>
+</tbody>
+</table>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hafsatoys.de/products/8028096364809</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.99</s:price>
+      <s:sku>10291</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hafsatoys.de/products/8028096200969</id>
+    <published>2022-11-20T11:26:18+01:00</published>
+    <updated>2022-11-20T11:26:18+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hafsatoys.de/products/kreatives-puzzle-spiel"/>
+    <title>Kreatives Puzzlespiel</title>
+    <s:type></s:type>
+    <s:vendor>Bluesky</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0642/0139/2393/products/kreatives-puzzlespiel-mit-steckperlen-und-dinotier-karten-oder-mit-bildvorlagen.jpg?v=1668939997"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Bluesky<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            15.99 - 19.99
+            <a href="https://hafsatoys.de/products/kreatives-puzzle-spiel">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Spielen, Spaß haben und lernen (PUZZLE mit Bildvorlagen) Innovatives und verkaufsförderndes Spielzeug bei hafsatoys.de Kreatives Puzzlespiel mit Perlen und Dinosaurierkarten 257 Teile<br>Durch Aneinanderreihen und Zusammenstecken der Montageteile können verschiedene Puzzle-Modelle entstehen. Die einzelnen Montageteile werden mit den Schrauben befestigt.<br>Mit dem elektrischen Spielzeug-Akkuschrauber und dem Schraubenzieher arbeiten Kinder wie Erwachsene und haben dabei unbeschreiblichen Spaß.<br>Kinder lernen auf spielerische Art und Weise, Muster nach Vorlagen zu erstellen, trainieren ihre Feinmotorik, erweitern ihre Kombinationsfähigkeit mit Farben und ihre Kreativität.<br>Es ist ein kreatives und lehrreiches Puzzlespiel, mit dem Ihr Kind viel Zeit verbringen und eine Menge Spaß haben wird. Das Kind hat eine Vielzahl von Möglichkeiten, seine Fähigkeiten zu entwickeln und seine Fantasie auszuleben.<br><br>Gefördert werden:<br>Die Fantasie und KreativitätFeinmotorik, Farberkennung, künstlerische, sensorische, kognitive und praktische Fähigkeiten.Hand-Augen-Koordination fördert auch die Konzentrationsfähigkeit des Kindes.Kinder lernen, mit Anweisungen umzugehen.<br>Das Material ist aus hochwertigem recyclebarem Kunststoff, geruchsneutral, ungiftig, langlebig und sicher für Kinder. Alle Einzelteile können in der Box aufbewahrt und überall hin mitgenommen werden. Das Spiel ist für Kinder ab dem Alter von 3 Jahren geeignet.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hafsatoys.de/products/8028096200969</id>
+      <title>Puzzle mit Dino-Karten</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>FYD1864-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hafsatoys.de/products/8028096200969</id>
+      <title>Puzzle mit Tier-Karten</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>FYD1864-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hafsatoys.de/products/8028096200969</id>
+      <title>Puzzle mit Bildvorlagen</title>
+      <s:price currency="EUR">15.99</s:price>
+      <s:sku>FYD1864-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hafsatoys.de/products/8028096004361</id>
+    <published>2022-11-20T11:25:48+01:00</published>
+    <updated>2022-11-20T11:25:48+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hafsatoys.de/products/magworld-magnetisches-kugelbahnbauset"/>
+    <title>Magworld Magnetische Kugelbahn Bausatz</title>
+    <s:type></s:type>
+    <s:vendor>Bluesky</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0642/0139/2393/products/MagworldMagnetischesKugelbahnbauset2-1000.png?v=1668939976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Bluesky<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            23.99 - 31.99
+            <a href="https://hafsatoys.de/products/magworld-magnetisches-kugelbahnbauset">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4></h4>
+<div class="hf-product-container">
+<h4 class="productContent__title">Spielen, Spaß haben und lernen</h4>
+<h4 class="productContent__subtitle">Innovatives und verkaufsförderndes Spielzeug bei <a href="#">hafsatoys.de</a>
+</h4>
+<div class="productZigzag">
+<div class="productZigzag__item">
+<p>Das magnetische Kugelbahn-Set ist ein Konstruktionsspielzeug für Kinder, die ihre Kreativität ausleben wollen. Durch das Zusammenstecken der magnetischen Bausteine können verschiedene Konstruktionsmodelle wie Burgen, Häuser, Bahnen und vieles mehr gebaut werden.<br><br>Der Fantasie der Kinder sind beim Bauen keine Grenzen gesetzt. Sie können Rollenbahnen nach der vorgegebenen Anleitung oder nach eigenen Ideen bauen und die Kugeln hindurch rollen lassen.<br><br>Der Spaßfaktor ist bei diesem Spiel sehr wichtig. Mit den Aufklebern, die zu den Bausteinen gehören, können Kinder spielerisch das Alphabet lernen.<br><br>MAGWORLD ist ein kreatives und pädagogisch gut durchdachtes Konstruktionsspiel, mit dem Kinder viel Spaß haben und Zeit verbringen.</p>
+</div>
+</div>
+<h4 class="productContent__textTitle">Magnetische Kugelbahn mit 77 Komponenten oder 115 Komponenten</h4>
+<div class="productContent-twoImg">Das Spielset hilft, die Hand-Augen-Koordination, das logische Denken und die Kreativität des Kindes zu fördern und zu entwickeln. Die Kinder entdecken ihre Fähigkeiten auf spielerische Weise und haben dabei unendlich viel Spaß. Auch die Konzentrationsfähigkeit des Kindes wird durch die Hand-Augen-Koordination gefördert. Sie lernen, mit Anleitungen umzugehen. Die Materialien sind aus hochwertigem und recyclebarem ABS-Kunststoff, ungiftig, langlebig und sicher für Kinder. Das Murmelbahn-Set ist für Kinder ab 3 Jahren geeignet.</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hafsatoys.de/products/8028096004361</id>
+      <title>77 Teile</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>FYD1807</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hafsatoys.de/products/8028096004361</id>
+      <title>115 Teile</title>
+      <s:price currency="EUR">31.99</s:price>
+      <s:sku>FYD1808</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hafsatoys.de/products/8028095873289</id>
+    <published>2022-11-20T11:25:24+01:00</published>
+    <updated>2022-11-20T11:25:24+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hafsatoys.de/products/kreativ-baukasten"/>
+    <title>Kreativ-Bausatz</title>
+    <s:type></s:type>
+    <s:vendor>Bluesky</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0642/0139/2393/products/KreativesSteckstabbauset1-1000.png?v=1668939947"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Bluesky<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            39.99 - 69.99
+            <a href="https://hafsatoys.de/products/kreativ-baukasten">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Info zu diesem Artikel</h4>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">270 teiliges Bau-Spielzeug. Diy Forts Steckstabbaukasten kreatives Konstruktionsspielzeug: Durch das Stecken der Stäbe / Röhre in die Kugeln entstehen verschiedene Baukonstruktionen und geometrische Figuren.</span></li>
+<li><span class="a-list-item">Kreativität fördernd: Das Kind hat vielfältige Möglichkeiten seine Fähigkeiten zu entfalten und seine Fantasie auszuleben. Die Kinder schulen durch ausprobieren und nachforschen, wie bei Montessori-Pädagogik, ihre Fähigkeiten und Kreativität. Sie trainieren ihre Feinmotorik, Grobmotorik, praktische Fähigkeiten, Bau- und Konstruktionsfähigkeiten. Montessori Spielzeuge für Kinder.</span></li>
+<li><span class="a-list-item">Leicht zusammen zu bauen: Die in der Anleitung angegebenen Konstruktionen können leicht zusammengebaut werden. Die kleinen Konstruktuere können bei einigen Konstruktionen die Unterstützung von Erwachsenen gut gebrauchen. Durch das Zudecken mit leichten Bettlaken können die Bauten als Zelt oder Höhle benutzt werden und zudem auch Rückzugsmöglichkeiten bieten(Bettlaken nicht im Lieferumfang). Das Spiel ist leicht zu tragen und kann zu Freunden mitgenommen werden.</span></li>
+<li><span class="a-list-item">Fördert mathematische Kompetenzen: Das Spielzeug fördert das Gefühl für Formen und das Raumvorstellungsverständnis und erweitert die mathematischen Fähigkeiten der Kinder. Handlungsorientiert und spielerisch lernen die Kinder die mathematischen Grundformen der Geometrie (Flächen und Körpern) kennen.</span></li>
+<li><span class="a-list-item">Das Material ist aus hochwertigem recycelbarem ABS-Kunststoff hergestellt, es riecht nicht, ist ungiftig, langlebig und sicher für die Kinder. Das Spiel eignet sich für Kinder ab 5 Jahren.</span></li>
+</ul>
+</ul>
+<h4>Technische Details</h4>
+<table style="width: 403px;" height="227">
+<tbody>
+<tr>
+<td style="width: 172.859px;"> <span data-mce-fragment="1">Verpackungsabmessungen</span>
+</td>
+<td style="width: 214.141px;"><span>45.7 x 31.3 x 11.9 cm; 2.67 Kilogramm</span></td>
+</tr>
+<tr>
+<td style="width: 172.859px;"><span>Modellnummer</span></td>
+<td style="width: 214.141px;"><span>‎part_B08PMK2QHZ</span></td>
+</tr>
+<tr>
+<td style="width: 172.859px;"><span>Modell</span></td>
+<td style="width: 214.141px;"><span>Part_B08PMK2QHZ</span></td>
+</tr>
+<tr>
+<td style="width: 172.859px;"><span>Anzahl Spieler</span></td>
+<td style="width: 214.141px;">1-4</td>
+</tr>
+<tr>
+<td style="width: 172.859px;"><span>Anzahl Teile</span></td>
+<td style="width: 214.141px;">270</td>
+</tr>
+<tr>
+<td style="width: 172.859px;"><span>Batterien notwendig</span></td>
+<td style="width: 214.141px;">Nein</td>
+</tr>
+<tr>
+<td style="width: 172.859px;"><span>Batterien inbegriffen</span></td>
+<td style="width: 214.141px;">Nein</td>
+</tr>
+<tr>
+<td style="width: 172.859px;"><span>Material</span></td>
+<td style="width: 214.141px;"><span>‎ABS - Kunststoff (recyclebar)</span></td>
+</tr>
+<tr>
+<td style="width: 172.859px;"><span>Artikelgewicht</span></td>
+<td style="width: 214.141px;">2,67 Kg</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hafsatoys.de/products/8028095873289</id>
+      <title>210 Teile</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hafsatoys.de/products/8028095873289</id>
+      <title>270 Teile</title>
+      <s:price currency="EUR">48.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hafsatoys.de/products/8028095873289</id>
+      <title>315 Teile</title>
+      <s:price currency="EUR">59.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hafsatoys.de/products/8028095873289</id>
+      <title>355 Teile</title>
+      <s:price currency="EUR">69.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hafsatoys.de/products/8028095742217</id>
+    <published>2022-11-20T11:25:15+01:00</published>
+    <updated>2022-11-20T11:25:15+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hafsatoys.de/products/mosaik"/>
+    <title>Mosaik</title>
+    <s:type></s:type>
+    <s:vendor>Small Foot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0642/0139/2393/products/Mosaik1-1000.png?v=1668939923"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Small Foot<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="panel entry-content sp-tab des_mb_2 des_style_1 clicked_accordion active" id="tab_pr_desk">
+<div class="js_ck_view">Legen, verfolgen, stapeln oder sortieren! Dieses Mosaik ist ein sehr interessantes Holzspielzeug mit seinen vielen Farben und Formen. Bunte Teile können Stein für Stein in den Holzrahmen gesetzt werden, was zu einem schönen Muster. 80 bunte Mosaiksteine ergeben viele verschiedene Formen. Es gibt unendlich viele Möglichkeiten, mit diesem Set zu spielen, das die Kreativität und das selbstständige Lernen fördert, während schöne Muster und Kunstwerke entstehen.</div>
+<div class="sp-tab-content">
+<div class="attributes cf uk-width-1-1" data-mce-fragment="1">
+<div class="uk-grid" data-mce-fragment="1">
+<div class="uk-width-medium-1-2" data-mce-fragment="1">
+<table class="uk-table" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Abmessungen</td>
+<td data-mce-fragment="1">ca. 26 x 26 x 2 cm</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Marke<br>
+</td>
+<td data-mce-fragment="1">small foot</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Material</td>
+<td data-mce-fragment="1">Holz<br>
+</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Hauptkatalogseite</td>
+<td data-mce-fragment="1">151</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Anfangsalter</td>
+<td data-mce-fragment="1">ab3 Jahren<br>
+</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Geschlecht</td>
+<td data-mce-fragment="1">männlich, weiblich</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="uk-width-medium-1-2" data-mce-fragment="1">
+<table class="uk-table" style="width: 562px;" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td style="width: 277.453px;" data-mce-fragment="1">Inhalt des Artikels<br>
+</td>
+<td style="width: 267.547px;" data-mce-fragment="1">80 Holzfliesen.</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 277.453px;" data-mce-fragment="1">Art der Verpackung<br>
+</td>
+<td style="width: 267.547px;" data-mce-fragment="1">small foot Verpackung</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 277.453px;" data-mce-fragment="1">Gewicht einschließlich Verpackung (brutto)</td>
+<td style="width: 267.547px;" data-mce-fragment="1">0.34kg</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 277.453px;" data-mce-fragment="1">Inhalt<br>
+</td>
+<td style="width: 267.547px;" data-mce-fragment="1">80 Teile</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 277.453px;" data-mce-fragment="1">EAN-Kode</td>
+<td style="width: 267.547px;" data-mce-fragment="1">4020972010384</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hafsatoys.de/products/8028095742217</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.99</s:price>
+      <s:sku>1038</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hafsatoys.de/products/8028095643913</id>
+    <published>2022-11-20T11:25:09+01:00</published>
+    <updated>2022-11-20T11:25:09+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hafsatoys.de/products/ziehtier-krokodil"/>
+    <title>Nachziehbares Krokodil</title>
+    <s:type></s:type>
+    <s:vendor>Small Foot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0642/0139/2393/products/ZiehtierKrokodil1-1000.png?v=1668939914"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Small Foot<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="panel entry-content sp-tab des_mb_2 des_style_1 active" id="tab_pr_desk">
+<div class="js_ck_view">Niedliches Nachziehtier: Aus hochwertigem grün lasiertem und unbehandeltem Buchenholz gefertigt, wackelt dieses lustige Krokodil hinter Ihnen her, wenn Sie an der Schnur ziehen! Dieses Krokodil wird schnell zum lustigen Begleiter Ihres Kindes werden. Starkes, haltbares Buchenholz macht dieses Spielzeug zu einem sehr langlebigen und nachhaltigen Zeitvertreib.</div>
+<div class="sp-tab-content">
+<div class="attributes cf uk-width-1-1" data-mce-fragment="1">
+<div class="uk-grid" data-mce-fragment="1">
+<div class="uk-width-medium-1-2" data-mce-fragment="1">
+<table class="uk-table" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Abmessungen</td>
+<td data-mce-fragment="1">ca. 26x8x8cm</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Marke<br>
+</td>
+<td data-mce-fragment="1">small foot</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Material</td>
+<td data-mce-fragment="1">Holz<br>
+</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Hauptkatalogseite</td>
+<td data-mce-fragment="1">92</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Anfangsalter</td>
+<td data-mce-fragment="1">ab 12 Monaten</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Geschlecht</td>
+<td data-mce-fragment="1">männlich, weiblich</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="uk-width-medium-1-2" data-mce-fragment="1">
+<table style="width: 562px;" class="uk-table" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td style="width: 275.969px;" data-mce-fragment="1">Art der Verpackung<br>
+</td>
+<td style="width: 268.031px;" data-mce-fragment="1">small foot Verpackung</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 275.969px;" data-mce-fragment="1">Gewicht einschließlich Verpackung (brutto)<br>
+</td>
+<td style="width: 268.031px;" data-mce-fragment="1">0.37kg</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 275.969px;" data-mce-fragment="1">EAN-Kode</td>
+<td style="width: 268.031px;" data-mce-fragment="1">4020972026040</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hafsatoys.de/products/8028095643913</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">16.99</s:price>
+      <s:sku>2604</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hafsatoys.de/products/8028095578377</id>
+    <published>2022-11-20T11:24:59+01:00</published>
+    <updated>2022-11-20T11:24:59+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hafsatoys.de/products/teeservice-kinderkuche"/>
+    <title>Teeservice Kinderküche</title>
+    <s:type></s:type>
+    <s:vendor>Small Foot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0642/0139/2393/products/TeeserviceKinderkuche3-1000.png?v=1668939908"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Small Foot<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="tab_pr_desk" class="panel entry-content sp-tab des_mb_2 des_style_1 active">
+<div class="js_ck_view">Eine Tasse Tee, bitte! Das Teeservice-Set aus robustem Holz lässt keine Wünsche offen. Die Rollenspielmöglichkeiten in der Kinderküche werden durch die Gedecke für zwei Personen mit verschiedenen Teesorten, Milchschaum und Keksen bereichert. Zwei Löffel zum Umrühren vervollständigen das Set. Die Deckel von Teekanne und Zuckerdose sind abnehmbar. </div>
+<div class="sp-tab-content">
+<div class="attributes cf uk-width-1-1" data-mce-fragment="1">
+<div class="uk-grid" data-mce-fragment="1">
+<div class="uk-width-medium-1-2" data-mce-fragment="1">
+<table class="uk-table" style="width: 562px;" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td style="width: 200.031px;" data-mce-fragment="1">Abmessungen</td>
+<td style="width: 343.969px;" data-mce-fragment="1">Krug ca. 13 x 8 x 9 cm,<br data-mce-fragment="1">Tasse ca. 7 x 5 x 4 cm</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 200.031px;" data-mce-fragment="1">Marke<br>
+</td>
+<td style="width: 343.969px;" data-mce-fragment="1">small foot</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 200.031px;" data-mce-fragment="1">Material</td>
+<td style="width: 343.969px;" data-mce-fragment="1">Holz<br>
+</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 200.031px;" data-mce-fragment="1">Hauptkatalogseite</td>
+<td style="width: 343.969px;" data-mce-fragment="1">212</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 200.031px;" data-mce-fragment="1">Anfangsalter</td>
+<td style="width: 343.969px;" data-mce-fragment="1">ab 3 Jahren<br>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="uk-width-medium-1-2" data-mce-fragment="1">
+<table class="uk-table" style="width: 562px;" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td style="width: 199.422px;" data-mce-fragment="1">Inhalt des Artikels<br>
+</td>
+<td style="width: 344.578px;" data-mce-fragment="1">1 Teekanne, 1 Zuckerdose, 1 Milchkännchen, 2 Kekse, 1 Zitronentee, 1 Minztee, 1 Vanille-Erdbeertee, 1 großer Teller, 2 kleine Teller, 2 Löffel, 2 Teetassen.</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 199.422px;" data-mce-fragment="1">Art der Verpackung<br>
+</td>
+<td style="width: 344.578px;" data-mce-fragment="1">small foot Verpackung</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 199.422px;" data-mce-fragment="1">Gewicht einschließlich Verpackung (brutto)</td>
+<td style="width: 344.578px;" data-mce-fragment="1">0.58kg</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 199.422px;" data-mce-fragment="1">Inhalt<br>
+</td>
+<td style="width: 344.578px;" data-mce-fragment="1">15 teile</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 199.422px;" data-mce-fragment="1">EAN-Kode</td>
+<td style="width: 344.578px;" data-mce-fragment="1">4020972112149</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hafsatoys.de/products/8028095578377</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">29.99</s:price>
+      <s:sku>11214</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hafsatoys.de/products/8028095447305</id>
+    <published>2022-11-20T11:24:46+01:00</published>
+    <updated>2022-11-20T11:24:46+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hafsatoys.de/products/stoff-gemuse-set-mit-kiste"/>
+    <title>Gemüseset aus Stoff mit Box</title>
+    <s:type></s:type>
+    <s:vendor>Small Foot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0642/0139/2393/products/Stoff-Gemuse-SetmitKiste1-1000.png?v=1668939898"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Small Foot<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="shopify-section-pr_description" class="shopify-section shopify-tabs sp-tabs nt_section">
+<ul class="ul_none ul_tabs is-flex fl_center fs__16 des_mb_2 des_style_1">
+<li class="tab_title_block active"><a class="db cg truncate pr" href="#tab_pr_desk">Beschreibung</a></li>
+<li class="tab_title_block"><a class="db cg truncate pr" href="#tab_pr_reivew">Bewertungen</a></li>
+</ul>
+<div id="tab_pr_deskl" class="panel entry-content sp-tab des_mb_2 des_style_1 active">
+<div class="js_ck_view"></div>
+<div class="heading bgbl dn"><a class="tab-heading flex al_center fl_between pr cd chp fwm" href="#tab_pr_deskl"><span class="txt_h_tab">Beschreibung</span></a></div>
+<div class="sp-tab-content">
+<div class="uk-width-large-3-10 uk-width-medium-1-1 product-infos" data-mce-fragment="1">
+<div class="uk-grid" data-mce-fragment="1">
+<div class="detail-wrapper uk-width-large-1-1 uk-width-medium-1-1" data-mce-fragment="1">
+<div class="details" data-mce-fragment="1">
+<div class="description" data-mce-fragment="1">
+<p data-mce-fragment="1">Gemüse aus dem Ackerland! Dieses Gemüseset darf in der Kinderküche, im Kaufladen oder auf dem Marktstand nicht fehlen. Die Holztreppe ist gefüllt mit einer Tomate, einer Gurke, einer Karotte, einem Pilz und einem Salatkopf aus weichem Plüsch. Die Blätter des Salats sind mit Klettverschluss am Salat befestigt und können abgenommen werden. So werden beim Spielen die motorischen Fähigkeiten gefördert und zum aktiven Rollenspiel angeregt. Das originalgetreu gestaltete Gemüse bringt den Kindern gesunde Lebensmittel näher und ermöglicht es ihnen, reale Alltagssituationen nachzuspielen. Dieses Zubehörset sollte im Kinderküchen- und Rollenspielsortiment nicht fehlen.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="attributes cf uk-width-1-1" data-mce-fragment="1">
+<div class="uk-grid" data-mce-fragment="1">
+<div class="uk-width-medium-1-2" data-mce-fragment="1">
+<table class="uk-table" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Abmessungen</td>
+<td data-mce-fragment="1">Kasten ca. 18 x 12 x 9.5 cm,<br data-mce-fragment="1">Länge der Gurke: ca. 13 cm, Ø approx. 4 cm&lt; /td&gt;</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Marke<br>
+</td>
+<td data-mce-fragment="1">small foot</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Material</td>
+<td data-mce-fragment="1">Filz, Holz</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Hauptkatalogseite</td>
+<td data-mce-fragment="1">214; 224</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Anfangsalter</td>
+<td data-mce-fragment="1">24m+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="uk-width-medium-1-2" data-mce-fragment="1">
+<table style="width: 545px;" class="uk-table" data-mce-style="width: 545px;" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td style="width: 137.641px;" data-mce-style="width: 137.641px;" data-mce-fragment="1">Inhalt des Artikels</td>
+<td style="width: 390.359px;" data-mce-style="width: 390.359px;" data-mce-fragment="1">1 Holzkiste, 1 Salatkopf, 1 Gurke, 1 Tomate, 1 Pilz, 1 Karotte.</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 137.641px;" data-mce-style="width: 137.641px;" data-mce-fragment="1">Art der Verpackung</td>
+<td style="width: 390.359px;" data-mce-style="width: 390.359px;" data-mce-fragment="1">small foot Verpackung</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 137.641px;" data-mce-style="width: 137.641px;" data-mce-fragment="1">Gewicht einschließlich Verpackung (brutto)</td>
+<td style="width: 390.359px;" data-mce-style="width: 390.359px;" data-mce-fragment="1">0.15kg</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 137.641px;" data-mce-style="width: 137.641px;" data-mce-fragment="1">Satz</td>
+<td style="width: 390.359px;" data-mce-style="width: 390.359px;" data-mce-fragment="1">-</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 137.641px;" data-mce-style="width: 137.641px;" data-mce-fragment="1">Inhalt<br>
+</td>
+<td style="width: 390.359px;" data-mce-style="width: 390.359px;" data-mce-fragment="1">6 Teile</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 137.641px;" data-mce-style="width: 137.641px;" data-mce-fragment="1">EAN-Kode</td>
+<td style="width: 390.359px;" data-mce-style="width: 390.359px;" data-mce-fragment="1">4020972116888</td>
+</tr>
+</tbody>
+</table>
+<a href="https://hafsatoysde.myshopify.com/admin/products/7865340625139#tab_pr_reivew" class="db cg truncate pr" data-mce-href="https://hafsatoysde.myshopify.com/admin/products/7865340625139#tab_pr_reivew">Bewertungen</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="tab_pr_reivew" class="panel entry-content sp-tab des_mb_2 des_style_1 dn">
+<div class="sp-tab-content">
+<div id="shopify-product-reviews" data-id="6617589383353"></div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hafsatoys.de/products/8028095447305</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>11688</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hafsatoys.de/products/8028095381769</id>
+    <published>2022-11-20T11:24:33+01:00</published>
+    <updated>2022-11-20T11:24:33+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hafsatoys.de/products/stoff-fruchte-set-mit-kiste"/>
+    <title>Obstset aus Stoff mit Schachtel</title>
+    <s:type></s:type>
+    <s:vendor>Small Foot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0642/0139/2393/products/Stoff-Fruchte-SetmitKiste1-1000.png?v=1668939885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Small Foot<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="tab_pr_deskl" class="panel entry-content sp-tab des_mb_2 des_style_1 active">
+<div class="js_ck_view"></div>
+<div class="heading bgbl dn"><a class="tab-heading flex al_center fl_between pr cd chp fwm" href="#tab_pr_deskl"><span class="txt_h_tab">Beschreibung</span></a></div>
+<div class="sp-tab-content">
+<div data-mce-fragment="1" class="uk-width-large-3-10 uk-width-medium-1-1 product-infos">
+<div data-mce-fragment="1" class="uk-grid">
+<div data-mce-fragment="1" class="detail-wrapper uk-width-large-1-1 uk-width-medium-1-1">
+<div data-mce-fragment="1" class="details">
+<p data-mce-fragment="1">Oase der Früchte! Dieses Obstset bringt leckeres Obst auf den Tisch in der Kinderküche. Die Obstkiste aus Holz ist gefüllt mit zwei Äpfeln, zwei Orangen, einer Kiwi, einer Melone und einer Banane aus weichem Plüsch. Dank des Klettverschlusses kann die Plüschbanane wie eine echte Banane geschält werden. Genau das Richtige für die Obst- und Gemüseabteilung im Laden! Beim Spielen werden die motorischen Fähigkeiten gefördert und das aktive Rollenspiel angeregt. Das originalgetreu gestaltete Obst bringt den Kindern gesunde Lebensmittel näher. Dieses Spiellebensmittel-Set ermöglicht kreative Rollenspielideen und lässt Kinder reale Alltagssituationen nachspielen. Fruchtiger Spielspaß ist garantiert.</p>
+</div>
+</div>
+</div>
+</div>
+<div data-mce-fragment="1" class="attributes cf uk-width-1-1">
+<div data-mce-fragment="1" class="uk-grid">
+<div data-mce-fragment="1" class="uk-width-medium-1-2">
+<table data-mce-fragment="1" class="uk-table" style="width: 545px;">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1" style="width: 218.531px;">Abmessungen</td>
+<td data-mce-fragment="1" style="width: 307.469px;">Kiste ca. 18 x 12 x 9.5 cm,<br data-mce-fragment="1">Melonenscheibe ca. 17 x 5 x 6 cm</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1" style="width: 218.531px;">Marke<br>
+</td>
+<td data-mce-fragment="1" style="width: 307.469px;">small foot</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1" style="width: 218.531px;">Material</td>
+<td data-mce-fragment="1" style="width: 307.469px;">Filz, Holz</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1" style="width: 218.531px;">Hauptkatalogseite</td>
+<td data-mce-fragment="1" style="width: 307.469px;">214; 224</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1" style="width: 218.531px;">Anfangsalter</td>
+<td data-mce-fragment="1" style="width: 307.469px;">24m+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div data-mce-fragment="1" class="uk-width-medium-1-2">
+<table data-mce-fragment="1" class="uk-table">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Inhalt des Artikels</td>
+<td data-mce-fragment="1">1 Holzkiste, 1 Melone, 1 Banane, 2 Äpfel, 2 Orangen, 1 Kiwi.</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">rt der Verpackung</td>
+<td data-mce-fragment="1">small foot Verpackung</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">ewicht einschließlich Verpackung (brutto)</td>
+<td data-mce-fragment="1">0.21kg</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Satz</td>
+<td data-mce-fragment="1">-</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Inhalt<br>
+</td>
+<td data-mce-fragment="1">8 parts</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">EAN-Kode</td>
+<td data-mce-fragment="1">4020972116871</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hafsatoys.de/products/8028095381769</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>11687</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hafsatoys.de/products/8028095217929</id>
+    <published>2022-11-20T11:24:20+01:00</published>
+    <updated>2022-11-20T11:24:20+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hafsatoys.de/products/sesamstrasse-klopfbank"/>
+    <title>Sesamstraße Klopfbank</title>
+    <s:type></s:type>
+    <s:vendor>Small Foot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0642/0139/2393/products/SesamstrasseKlopfbank1-1000.png?v=1668939872"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Small Foot<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="tab_pr_deskl" class="panel entry-content sp-tab des_mb_2 des_style_1 active">
+<div class="js_ck_view"></div>
+<div class="heading bgbl dn">Ernie &amp; Elmo brauchen deine Hilfe bei der Farmarbeit? Die bunten Möhren werden mit einem Holzhammer heruntergeschlagen - aber Vorsicht: Sie kommen wieder hoch! Aber wo? Das Hammerspiel ist aus 100% FSC®-zertifiziertem Holz gefertigt und schult spielerisch die Motorik der Kinder. Durch die Kastenform hat die Klopfbank immer einen sicheren Halt und hält auch den Hammerschlägen der Kleinen stand. Ein spannendes und anregendes Spiel für die Kleinsten. </div>
+<div class="heading bgbl dn"></div>
+<div class="sp-tab-content">
+<div class="attributes cf uk-width-1-1" data-mce-fragment="1">
+<div class="uk-grid" data-mce-fragment="1">
+<div class="uk-width-medium-1-2" data-mce-fragment="1">
+<table style="width: 562px;" class="uk-table" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td style="width: 224.062px;" data-mce-fragment="1">Abmessungen</td>
+<td style="width: 318.938px;" data-mce-fragment="1"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Bank ca. </span><span style="vertical-align: inherit;">22 x 10 x 12 cm, hammer approx. </span><span style="vertical-align: inherit;">5.5 x 3, 5 x 16 cm</span></span></td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 224.062px;" data-mce-fragment="1">Marke</td>
+<td style="width: 318.938px;" data-mce-fragment="1"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">SESAMSTRASSE</span></span></td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 224.062px;" data-mce-fragment="1"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Material</span></span></td>
+<td style="width: 318.938px;" data-mce-fragment="1"><span style="vertical-align: inherit;" mce-data-marked="1"><span style="vertical-align: inherit;" mce-data-marked="1">Holz</span></span></td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 224.062px;" data-mce-fragment="1">Hauptkatalogseite</td>
+<td style="width: 318.938px;" data-mce-fragment="1"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">406</span></span></td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 224.062px;" data-mce-fragment="1">Anfangsalter</td>
+<td style="width: 318.938px;" data-mce-fragment="1"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">12m+ </span></span></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="uk-width-medium-1-2" data-mce-fragment="1">
+<table style="width: 562px;" class="uk-table" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td style="width: 223.453px;" data-mce-fragment="1">Art der Verpackung<br>
+</td>
+<td style="width: 321.547px;" data-mce-fragment="1"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">small foot- Verpackung</span></span></td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 223.453px;" data-mce-fragment="1">Gewicht einschließlich Verpackung (brutto)<br>
+</td>
+<td style="width: 321.547px;" data-mce-fragment="1"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">0.67 kg</span></span></td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 223.453px;" data-mce-fragment="1"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Inhalt</span></span></td>
+<td style="width: 321.547px;" data-mce-fragment="1"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">2 Teile</span></span></td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 223.453px;" data-mce-fragment="1"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">EAN-Kode </span></span></td>
+<td style="width: 321.547px;" data-mce-fragment="1"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">4020972109729</span></span></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hafsatoys.de/products/8028095217929</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">24.99</s:price>
+      <s:sku>10972</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hafsatoys.de/products/8028095119625</id>
+    <published>2022-11-20T11:24:08+01:00</published>
+    <updated>2022-11-20T11:24:08+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hafsatoys.de/products/schiebe-drache-merlin"/>
+    <title>Schiebedrache Merlin</title>
+    <s:type></s:type>
+    <s:vendor>Small Foot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0642/0139/2393/products/Schiebe-DracheMerlin1-1000.png?v=1668939859"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Small Foot<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="tab_pr_deskl" class="panel entry-content sp-tab des_mb_2 des_style_1 active">
+<div class="js_ck_view"></div>
+<div class="heading bgbl dn">Das Fabelwesen - Merlin ist etwas ganz Besonderes! Das Schiebefahrrad "Merlin Dragon" bietet Kindern ein spannendes Spielzeug für viel Spielspaß und zur Förderung der eigenen Fähigkeiten. Es besteht aus 100% FSC®-zertifiziertem Holz und ist der ideale Begleiter für Einsteiger auf Erkundungstouren. Beim Anschieben flattert der Drache mit den Flügeln auf und ab und "fliegt" feuerspeiend zu jedem Abenteuer. Für Ruhe Die gummierten Räder sorgen für Laufgeräusche. Das Schiebefahrrad ermuntert die Kleinen zu neuen Ausflügen.</div>
+<div class="sp-tab-content">
+<div class="attributes cf uk-width-1-1" data-mce-fragment="1">
+<div class="uk-grid" data-mce-fragment="1">
+<div class="uk-width-medium-1-2" data-mce-fragment="1">
+<table class="uk-table" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Abmessungen</td>
+<td data-mce-fragment="1">ca. 54x16x16cm</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Marke<br>
+</td>
+<td data-mce-fragment="1">small foot</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Material</td>
+<td data-mce-fragment="1">Holz<br>
+</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Hauptkatalogseite</td>
+<td data-mce-fragment="1">410</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Anfangsalter</td>
+<td data-mce-fragment="1">ab 18 Monaten</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="uk-width-medium-1-2" data-mce-fragment="1">
+<table class="uk-table" style="width: 562px;" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr style="height: 18px;" data-mce-fragment="1">
+<td style="height: 18px; width: 292.875px;" data-mce-fragment="1">Art der Verpackung<br>
+</td>
+<td style="height: 18px; width: 252.125px;" data-mce-fragment="1">Artikel mit Lochkarte/Aufhänger</td>
+</tr>
+<tr style="height: 18px;" data-mce-fragment="1">
+<td style="height: 18px; width: 292.875px;" data-mce-fragment="1">Gewicht einschließlich Verpackung (brutto)<br>
+</td>
+<td style="height: 18px; width: 252.125px;" data-mce-fragment="1">0.31kg</td>
+</tr>
+<tr style="height: 20px;" data-mce-fragment="1">
+<td style="height: 20px; width: 292.875px;" data-mce-fragment="1">EAN-Kode</td>
+<td style="height: 20px; width: 252.125px;" data-mce-fragment="1">4020972110435</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hafsatoys.de/products/8028095119625</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.99</s:price>
+      <s:sku>11043</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hafsatoys.de/products/8028095054089</id>
+    <published>2022-11-20T11:23:58+01:00</published>
+    <updated>2022-11-20T11:23:58+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hafsatoys.de/products/ruhrgerat-kinderkuche"/>
+    <title>Mixer Kinderküche</title>
+    <s:type></s:type>
+    <s:vendor>Small Foot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0642/0139/2393/products/RuhrgeratKinderkuche1-1000.png?v=1668939847"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Small Foot<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="tab_pr_deskl" class="panel entry-content sp-tab des_mb_2 des_style_1 active">
+<div class="js_ck_view"></div>
+<div class="heading bgbl dn">Die Arbeit in der Küche kann beginnen! Ein interaktives Lernspielzeug für Eltern und Kinder. Indem die Kinder ihre Eltern nachahmen, entwickeln sie fantasievolle Rollenspiele und lernen den Umgang mit Geräten. Mit dem Mixer können die Kleinen das Backen von Kuchen in ihrer Spielküche simulieren. Dabei helfen der rotierende Rührbesen und die Rührschüssel. Der stabile Holzmixer rührt den Teig mit dem rotierenden Rührstab und der stabilen Rührschüssel aus Kunststoff. Die Schüssel lässt sich dank des schwenkbaren und hochklappbaren Rührkopfes leicht herausnehmen. Der Ein/Aus-Knopf lässt sich wie bei einem richtigen Mixer drehen. Der Standfuß sorgt dafür, dass der Mixer sicher gehalten wird. Der Mixer darf in der Welt der Kinderküche nicht fehlen.</div>
+<div class="heading bgbl dn"></div>
+<div class="sp-tab-content">
+<div class="attributes cf uk-width-1-1" data-mce-fragment="1">
+<div class="uk-grid" data-mce-fragment="1">
+<div class="uk-width-medium-1-2" data-mce-fragment="1">
+<table class="uk-table" style="width: 562px;" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td style="width: 266.844px;" data-mce-fragment="1">Abmessungen</td>
+<td style="width: 277.156px;" data-mce-fragment="1">ca. 18x10x20cm</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 266.844px;" data-mce-fragment="1">Marke<br>
+</td>
+<td style="width: 277.156px;" data-mce-fragment="1">small foot</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 266.844px;" data-mce-fragment="1">Material</td>
+<td style="width: 277.156px;" data-mce-fragment="1">Holz</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 266.844px;" data-mce-fragment="1">Hauptkatalogseite</td>
+<td style="width: 277.156px;" data-mce-fragment="1">208</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 266.844px;" data-mce-fragment="1">Anfangsalter</td>
+<td style="width: 277.156px;" data-mce-fragment="1">ab 3 Jahren<br>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="uk-width-medium-1-2" data-mce-fragment="1">
+<table style="width: 545px;" class="uk-table" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td style="width: 265.25px;" data-mce-fragment="1">Inhalt des Artikels</td>
+<td style="width: 261.75px;" data-mce-fragment="1">1 Mixer, 1 Schüssel.</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 265.25px;" data-mce-fragment="1">Art der Verpackung</td>
+<td style="width: 261.75px;" data-mce-fragment="1">small foot Verpackung</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 265.25px;" data-mce-fragment="1">Gewicht einschließlich Verpackung (brutto)</td>
+<td style="width: 261.75px;" data-mce-fragment="1">0.83kg</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 265.25px;" data-mce-fragment="1">Inhalt<br>
+</td>
+<td style="width: 261.75px;" data-mce-fragment="1">2 Teile</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 265.25px;" data-mce-fragment="1">EAN-Kode</td>
+<td style="width: 261.75px;" data-mce-fragment="1">4020972105950</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hafsatoys.de/products/8028095054089</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.99</s:price>
+      <s:sku>10595</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hafsatoys.de/products/8028094988553</id>
+    <published>2022-11-20T11:23:30+01:00</published>
+    <updated>2022-11-20T11:23:30+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hafsatoys.de/products/playmais%C2%AE-basic-1000"/>
+    <title>PlayMais® Basic 1000</title>
+    <s:type></s:type>
+    <s:vendor>Small Foot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0642/0139/2393/products/PlayMais_Basic1000_1-1000.png?v=1668939836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Small Foot<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="tab_pr_deskl" class="panel entry-content sp-tab des_mb_2 des_style_1 active">
+<div class="js_ck_view">Unendlicher Bastelspaß für kleine kreative Hände! Ob Fahrzeuge, Tiere, Muster oder fantasievolle Figuren. Mit diesem umfangreichen PlayMais®-Set sind der Fantasie und Kreativität der Kinder keine Grenzen gesetzt. Der wiederverschließbare Eimer enthält PlayMais®, das aus Maisstärke hergestellt und mit Lebensmittelfarbe eingefärbt ist. Die natürliche Klebrigkeit des PlayMais® wird durch Anfeuchten aktiviert und der Bastel- und Bauspaß kann beginnen. Inklusive Anleitung und Zubehör. Beim Basteln werden Kreativität und Motorik gefördert. Das natürliche Spielzeug ist 100% biologisch abbaubar, nachhaltig und ohne künstliche Zusatzstoffe - absolut unbedenklich für Kinder.</div>
+<div class="js_ck_view"></div>
+<div class="sp-tab-content">
+<div class="attributes cf uk-width-1-1" data-mce-fragment="1">
+<div class="uk-grid" data-mce-fragment="1">
+<div class="uk-width-medium-1-2" data-mce-fragment="1">
+<table class="uk-table" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Marke<br>
+</td>
+<td data-mce-fragment="1">PlayMais®</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Material</td>
+<td data-mce-fragment="1">Sonstige<br>
+</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Hauptkatalogseite</td>
+<td data-mce-fragment="1">414</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Anfangsalter</td>
+<td data-mce-fragment="1">3+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="uk-width-medium-1-2" data-mce-fragment="1">
+<table class="uk-table" style="width: 562px;" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td style="width: 335.594px;" data-mce-fragment="1">Art der Verpackung<br>
+</td>
+<td style="width: 209.406px;" data-mce-fragment="1">Keine Verpackung</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 335.594px;" data-mce-fragment="1">Gewicht einschließlich Verpackung (brutto)</td>
+<td style="width: 209.406px;" data-mce-fragment="1">0.473kg</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 335.594px;" data-mce-fragment="1">Inhalt<br>
+</td>
+<td style="width: 209.406px;" data-mce-fragment="1">ca. 1,000 Stück</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 335.594px;" data-mce-fragment="1">EAN-Kode</td>
+<td style="width: 209.406px;" data-mce-fragment="1">4020972118202</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 335.594px;" data-mce-fragment="1">Spezielle Merkmale</td>
+<td style="width: 209.406px;" data-mce-fragment="1">Play well®</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hafsatoys.de/products/8028094988553</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">16.99</s:price>
+      <s:sku>11820</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hafsatoys.de/products/8028094791945</id>
+    <published>2022-11-20T11:23:13+01:00</published>
+    <updated>2022-11-20T11:23:13+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hafsatoys.de/products/picknickkorb-romantik"/>
+    <title>Picknickkorb Romantik</title>
+    <s:type></s:type>
+    <s:vendor>Small Foot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0642/0139/2393/products/PicknickkorbRomantik1-1000.png?v=1668939809"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Small Foot<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="tab_pr_deskl" class="panel entry-content sp-tab des_mb_2 des_style_1 active">
+<div class="js_ck_view"></div>
+<div class="heading bgbl dn">Ob zu Hause, im Garten oder im Park - das kindgerechte Porzellangeschirr bringt Freude und Spaß auf jeden Ausflug! Das Geschirrset beinhaltet: neben vier Tellern, Tassen, Untertassen, Gabeln, Löffeln und Messern auch eine Kaffeekanne, eine Zuckerkanne und ein Milchkännchen! Eine rosa Decke vervollständigt das Rollenspielset.</div>
+<div class="sp-tab-content">
+<div class="attributes cf uk-width-1-1" data-mce-fragment="1">
+<div class="uk-grid" data-mce-fragment="1">
+<div class="uk-width-medium-1-2" data-mce-fragment="1">
+<table style="width: 545px;" class="uk-table" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td style="width: 201.031px;" data-mce-fragment="1">Abmessungen</td>
+<td style="width: 326.969px;" data-mce-fragment="1">ca. 24x13x20cm</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 201.031px;" data-mce-fragment="1">Marke<br>
+</td>
+<td style="width: 326.969px;" data-mce-fragment="1">small foot</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 201.031px;" data-mce-fragment="1">Material</td>
+<td style="width: 326.969px;" data-mce-fragment="1">Holz, Stoff</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 201.031px;" data-mce-fragment="1">Hauptkatalogseite</td>
+<td style="width: 326.969px;" data-mce-fragment="1">241</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 201.031px;" data-mce-fragment="1">Anfangsalter</td>
+<td style="width: 326.969px;" data-mce-fragment="1">ab 3 Jahren<br>
+</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 201.031px;" data-mce-fragment="1">Geschlecht</td>
+<td style="width: 326.969px;" data-mce-fragment="1">männlich, weiblich</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="uk-width-medium-1-2" data-mce-fragment="1">
+<table style="width: 545px;" class="uk-table" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td style="width: 201.719px;" data-mce-fragment="1">Inhalt des Artikels<br>
+</td>
+<td style="width: 326.281px;" data-mce-fragment="1">1 Korb, 4 Tassen, 1 Teekanne, 4 Untersetzer, 1 Kaffeekanne, 1 Milchkännchen, 4 Messer, 4 Löffel, 4 Gabeln, 4 Servietten, 1 Decke, 1 Besteckserviette.</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 201.719px;" data-mce-fragment="1">Art der Verpackung<br>
+</td>
+<td style="width: 326.281px;" data-mce-fragment="1">small foot Verpackung</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 201.719px;" data-mce-fragment="1">Gewicht einschließlich Verpackung (brutto)</td>
+<td style="width: 326.281px;" data-mce-fragment="1">0.79kg</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 201.719px;" data-mce-fragment="1">Satz</td>
+<td style="width: 326.281px;" data-mce-fragment="1">30 Teile</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 201.719px;" data-mce-fragment="1">Inhalt<br>
+</td>
+<td style="width: 326.281px;" data-mce-fragment="1">30 Teile</td>
+</tr>
+<tr data-mce-fragment="1">
+<td style="width: 201.719px;" data-mce-fragment="1">EAN-Kode</td>
+<td style="width: 326.281px;" data-mce-fragment="1">4020972053008</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hafsatoys.de/products/8028094791945</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">27.99</s:price>
+      <s:sku>5300</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hafsatoys.de/products/8028094726409</id>
+    <published>2022-11-20T11:23:07+01:00</published>
+    <updated>2022-11-20T11:23:07+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hafsatoys.de/products/motorikwurfel-insektenwelt"/>
+    <title>Motorik-Würfel Insektenwelt</title>
+    <s:type></s:type>
+    <s:vendor>Small Foot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0642/0139/2393/products/MotorikwurfelInsektenwelt1-1000.png?v=1668939792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Small Foot<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="tab_pr_deskl" class="panel entry-content sp-tab des_mb_2 des_style_1 active">
+<div class="js_ck_view"></div>
+<div class="heading bgbl dn">Ein tragbarer Würfel, der sich als motorisches Spielzeug entpuppt. Mit dem Insect Cube Explorer Toy macht das Spielen Spaß! Das Baby kann hier viel entdecken, seine Feinmotorik und Geschicklichkeit trainieren. Welche Raupe passt in welche Form? Die Bewohner des Holzwürfels können in die Aussparungen gepuzzelt werden, die in den Wurf gesägt wurden.</div>
+<div class="sp-tab-content">
+<table style="width: 545px;" data-mce-fragment="1" data-mce-style="width: 545px;">
+<tbody data-mce-fragment="1">
+<tr style="height: 17.5938px;" data-mce-fragment="1">
+<td style="width: 202.75px; height: 17.5938px;" data-mce-fragment="1" data-mce-style="width: 202.75px;">
+<p data-mce-fragment="1">Abmessungen</p>
+</td>
+<td style="width: 146.25px; height: 17.5938px;" data-mce-fragment="1" data-mce-style="width: 146.25px;">
+<p data-mce-fragment="1"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;">ca. </span><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;">12 x 12 x 12 cm</span></span></p>
+</td>
+</tr>
+<tr style="height: 33px;" data-mce-fragment="1">
+<td style="width: 202.75px; height: 33px;" data-mce-fragment="1" data-mce-style="width: 202.75px;">
+<p data-mce-fragment="1"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;">Marke</span></span></p>
+</td>
+<td style="width: 146.25px; height: 33px;" data-mce-fragment="1" data-mce-style="width: 146.25px;">
+<p data-mce-fragment="1"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;">little foot</span></span></p>
+</td>
+</tr>
+<tr style="height: 33px;" data-mce-fragment="1">
+<td style="width: 202.75px; height: 33px;" data-mce-fragment="1" data-mce-style="width: 202.75px;">
+<p data-mce-fragment="1"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;">Material</span></span></p>
+</td>
+<td style="width: 146.25px; height: 33px;" data-mce-fragment="1" data-mce-style="width: 146.25px;">
+<p data-mce-fragment="1"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;">Wood</span></span></p>
+</td>
+</tr>
+<tr style="height: 33px;" data-mce-fragment="1">
+<td style="width: 202.75px; height: 33px;" data-mce-fragment="1" data-mce-style="width: 202.75px;">
+<p data-mce-fragment="1">Anfangsalter</p>
+</td>
+<td style="width: 146.25px; height: 33px;" data-mce-fragment="1" data-mce-style="width: 146.25px;">
+<p data-mce-fragment="1">ab 12 Monaten</p>
+</td>
+</tr>
+<tr style="height: 33px;" data-mce-fragment="1">
+<td style="width: 202.75px; height: 33px;" data-mce-fragment="1" data-mce-style="width: 202.75px;">
+<p data-mce-fragment="1">Geschlecht</p>
+</td>
+<td style="width: 146.25px; height: 33px;" data-mce-fragment="1" data-mce-style="width: 146.25px;">
+<p data-mce-fragment="1">männlich, weiblich</p>
+</td>
+</tr>
+<tr style="height: 19px;" data-mce-fragment="1">
+<td style="width: 202.75px; height: 19px;" data-mce-fragment="1" data-mce-style="width: 202.75px;">Art der Verpackung<br>
+</td>
+<td style="width: 146.25px; height: 19px;" data-mce-fragment="1" data-mce-style="width: 146.25px;">Pappe</td>
+</tr>
+<tr style="height: 19px;" data-mce-fragment="1">
+<td style="width: 202.75px; height: 19px;" data-mce-fragment="1" data-mce-style="width: 202.75px;">Gewicht einschließlich Verpackung (brutto)</td>
+<td style="width: 146.25px; height: 19px;" data-mce-fragment="1" data-mce-style="width: 146.25px;">0.57kg</td>
+</tr>
+<tr style="height: 33px;" data-mce-fragment="1">
+<td style="width: 202.75px; height: 33px;" data-mce-fragment="1" data-mce-style="width: 202.75px;">
+<p data-mce-fragment="1"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;">EAN-Kode</span></p>
+</td>
+<td style="width: 146.25px; height: 33px;" data-mce-fragment="1" data-mce-style="width: 146.25px;">4020972057143</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hafsatoys.de/products/8028094726409</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.99</s:price>
+      <s:sku>5714</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hafsatoys.de/products/8028094693641</id>
+    <published>2022-11-20T11:22:51+01:00</published>
+    <updated>2022-11-20T11:22:51+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hafsatoys.de/products/konstruktionsset-nordic"/>
+    <title>Baukasten &quot;Nordisch&quot;</title>
+    <s:type></s:type>
+    <s:vendor>Small Foot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0642/0139/2393/products/KonstruktionssetNordic5-1000.png?v=1668939786"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Small Foot<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="panel entry-content sp-tab des_mb_2 des_style_1 active" id="tab_pr_deskl">
+<div class="js_ck_view"></div>
+<div class="heading bgbl dn">Werkzeugbau und Bau mit Nordic Design! Die Bauingenieure von morgen können sofort loslegen. Alle Bauteile werden mit Hilfe von Schraubenschlüssel und Schraubenzieher fachgerecht zusammengebaut. Die Kinder lernen den Umgang mit Lochleisten, Gewindeblöcken, Schrauben, Muttern, Holzunterlegscheiben und Bauplatten und fördern so ihre Fein- und Grobmotorik. Egal, ob Traktor, Lokomotive oder Kran - der Kreativität sind keine Grenzen gesetzt. Mit den selbst gebauten Modellen kann man dann spielen!</div>
+<div class="sp-tab-content">
+<div class="uk-width-large-3-10 uk-width-medium-1-1 product-infos" data-mce-fragment="1">
+<div class="uk-grid" data-mce-fragment="1">
+<div class="detail-wrapper uk-width-large-1-1 uk-width-medium-1-1" data-mce-fragment="1">
+<div class="details" data-mce-fragment="1">
+<div class="description" data-mce-fragment="1">
+<p data-mce-fragment="1"> </p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;">Baukasten zum Üben der dreidimensionalen Konstruktion</span></span></li>
+<li data-mce-fragment="1"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;">Umfangreiche Spielmöglichkeiten auf einer kompakten Fläche und für unterwegs</span> </span></li>
+<li data-mce-fragment="1"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;">Skandinavisches, zurückhaltendes Farbkonzept mit viel sichtbarem Holz</span> </span></li>
+<li data-mce-fragment="1"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;">2 Holzwerkzeuge (Schraubenschlüssel, Schraubenzieher)</span></span></li>
+<li data-mce-fragment="1"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;">umfangreiches Zubehör aus Konstruktionsleisten, Konstruktionsplatten, Schrauben, Muttern, Würfeln, Rädern, Radadaptern und Distanzhülsen</span></span></li>
+<li data-mce-fragment="1"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;">zugehörige Box zum Sortieren und Aufbewahren des gesamten Sets</span></span></li>
+<li data-mce-fragment="1"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;">geschlechtsneutrales Design mit sanften Pastellfarben</span>&lt; /span&gt;</span></li>
+<li data-mce-fragment="1"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;">lässt sich ideal mit anderen Produkten aus der Nordic Tool Serie kombinieren</span></span></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="attributes cf uk-width-1-1" data-mce-fragment="1">
+<div class="uk-grid" data-mce-fragment="1">
+<div class="uk-width-medium-1-2" data-mce-fragment="1">
+<table class="uk-table" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Abmessungen</td>
+<td data-mce-fragment="1">
+<span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;">square board approx. </span><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;">12 x 12 x 0.5 cm, </span></span><br data-mce-fragment="1"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;">Screwdriver length: approx. </span><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;">15 cm, diameter approx. </span><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;">2cm span&gt;</span> </span>
+</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;" mce-data-marked="1"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;" mce-data-marked="1">Marke</span></span></td>
+<td data-mce-fragment="1">
+<span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;">little foot</span></span> td&gt;</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;">Material</span></span></td>
+<td data-mce-fragment="1"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;">wood</span></span></td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Anfangsalter</td>
+<td data-mce-fragment="1"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;">3+</span></span></td>
+</tr>
+<tr>
+<td><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;">Inhalt des Artikels</span></span></td>
+<td><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;">1 wrench, 1 screwdriver, 2 construction plates, 7 construction cubes, 14 construction bars, 16 screws, 12 nuts, 4 wheels, 4 wheel adapters, 6 spacer sleeves.<br></span></span></td>
+</tr>
+<tr>
+<td><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;">Art der Verpackung</span></span></td>
+<td><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;">small foot packaging<br></span></span></td>
+</tr>
+<tr>
+<td><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;">Gewicht einschließlich Verpackung (brutto)</span></span></td>
+<td><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;">0.98 kg<br></span></span></td>
+</tr>
+<tr>
+<td><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;">Inhalt<br></span></span></td>
+<td><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;">67 parts<br></span></span></td>
+</tr>
+<tr>
+<td><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;">EAN-Kode<br></span></span></td>
+<td><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;">4020972118752<br></span></span></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="uk-width-medium-1-2" data-mce-fragment="1"></div>
+</div>
+</div>
+<div class="attributes cf uk-width-1-1" data-mce-fragment="1">
+<hr data-mce-fragment="1">
+<h2 data-mce-fragment="1">Spielanleitung</h2>
+<table class="uk-table" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<th data-mce-fragment="1">Sprache</th>
+<th data-mce-fragment="1">Name</th>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;"><span style="vertical-align: inherit;" data-mce-style="vertical-align: inherit;">DE, GB, FR, ES, IT</span></span></td>
+<td data-mce-fragment="1">Nordischer Bausatz</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hafsatoys.de/products/8028094693641</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">24.99</s:price>
+      <s:sku>11875</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hafsatoys.de/products/8028094562569</id>
+    <published>2022-11-20T11:22:44+01:00</published>
+    <updated>2022-11-20T11:22:44+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hafsatoys.de/products/konstruktionsset-flieger"/>
+    <title>Baukasten Flieger</title>
+    <s:type></s:type>
+    <s:vendor>Small Foot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0642/0139/2393/products/KonstruktionssetFlieger1-1000.png?v=1668939771"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Small Foot<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="tab_pr_deskl" class="panel entry-content sp-tab des_mb_2 des_style_1 active">
+<div class="js_ck_view">Ein Hubschrauber und ein Flugzeug werden hier von geübten Händen aus fein geschliffenem Buchenholz, Muttern aus lackiertem Holz und Schraub- und Steckelementen aus Kunststoff gefertigt. Tolle bunte Details und zwei Steckfiguren bringen rasanten Spielspaß in Kinderhände! Ideal zur Förderung der Fein- und Grobmotorik sowie der Konzentrationsfähigkeit der Kinder.</div>
+<div class="sp-tab-content">
+<p> <br></p>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 30.2064%;" data-mce-style="width: 30.2064%;">Abmessungen</td>
+<td style="width: 66.6743%;" data-mce-style="width: 66.6743%;">Hubschrauber ca.. 28 x 9.5 x 16 cm <br data-mce-fragment="1">Ebene ca. 25 x 39 x 13 cm</td>
+</tr>
+<tr>
+<td style="width: 30.2064%;" data-mce-style="width: 30.2064%;">Marke<br>
+</td>
+<td style="width: 66.6743%;" data-mce-style="width: 66.6743%;">small foot</td>
+</tr>
+<tr>
+<td style="width: 30.2064%;" data-mce-style="width: 30.2064%;">Material</td>
+<td style="width: 66.6743%;" data-mce-style="width: 66.6743%;">Holz, Kunststoff</td>
+</tr>
+<tr>
+<td style="width: 30.2064%;" data-mce-style="width: 30.2064%;">Anfangsalter</td>
+<td style="width: 66.6743%;" data-mce-style="width: 66.6743%;">ab 5 Jahren</td>
+</tr>
+<tr>
+<td style="width: 30.2064%;" data-mce-style="width: 30.2064%;">Geschlecht</td>
+<td style="width: 66.6743%;" data-mce-style="width: 66.6743%;">männlich</td>
+</tr>
+<tr>
+<td style="width: 30.2064%;" data-mce-style="width: 30.2064%;">Art der Verpackung</td>
+<td style="width: 66.6743%;" data-mce-style="width: 66.6743%;">Farbige Verpackung</td>
+</tr>
+<tr>
+<td style="width: 30.2064%;" data-mce-style="width: 30.2064%;">EAN-Kode</td>
+<td style="width: 66.6743%;" data-mce-style="width: 66.6743%;">4020972085467</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hafsatoys.de/products/8028094562569</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>8546</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hafsatoys.de/products/8028094497033</id>
+    <published>2022-11-20T11:22:37+01:00</published>
+    <updated>2022-11-20T11:22:37+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hafsatoys.de/products/konstruktionsset-dino-2-in-1"/>
+    <title>Baukasten Dino 2 in 1</title>
+    <s:type></s:type>
+    <s:vendor>Small Foot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0642/0139/2393/products/KonstruktionssetDino2in1_2-1000.png?v=1668939763"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Small Foot<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="tab_pr_deskl" class="panel entry-content sp-tab des_mb_2 des_style_1 active">
+<div class="js_ck_view"></div>
+<div class="heading bgbl dn">Zwei Dinosaurierkollegen aus der Zeit der Dinosaurier. Zum Glück sind sie aus Holz und sind ein paar Größen kleiner. Zwei verschiedene Dinosaurier können aus diesem tollen Bausatz gebaut werden. Mit 60 Bauteilen, wie Muttern, Lochblechen, Holzbausteinen und Schraubvorrichtungen, kann man seiner Kreativität freien Lauf lassen. Ideal zur Förderung der Fein- und Grobmotorik sowie der Konzentrationsfähigkeit der Kinder.</div>
+<div class="sp-tab-content">
+<p data-mce-fragment="1"><span data-mce-fragment="1"> </span></p>
+<table width="100%">
+<tbody>
+<tr>
+<td>Abmessungen</td>
+<td> pterosaurs approx. 18 x 30 x 12 cm <br data-mce-fragment="1">T-Rex approx. 20 x 15 x 21 cm</td>
+</tr>
+<tr>
+<td>Marke<br>
+</td>
+<td>small foot</td>
+</tr>
+<tr>
+<td>Material</td>
+<td>wood</td>
+</tr>
+<tr>
+<td>Anfangsalter</td>
+<td>from 5 years</td>
+</tr>
+<tr>
+<td>Geschlecht</td>
+<td>male, female</td>
+</tr>
+<tr>
+<td>Art der Verpackung</td>
+<td>colorful packaging</td>
+</tr>
+<tr>
+<td>Gewicht einschließlich Verpackung (brutto)</td>
+<td>0.71kg</td>
+</tr>
+<tr>
+<td>EAN-Kode</td>
+<td>4020972078063</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hafsatoys.de/products/8028094497033</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">24.99</s:price>
+      <s:sku>7806</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hafsatoys.de/products/8028094431497</id>
+    <published>2022-11-20T11:22:25+01:00</published>
+    <updated>2022-11-20T11:22:25+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hafsatoys.de/products/kochgeschirr-set-xl"/>
+    <title>Kochgeschirr-Set XL</title>
+    <s:type></s:type>
+    <s:vendor>Small Foot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0642/0139/2393/products/Kochgeschirr-SetXL1-1000.png?v=1668939756"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Small Foot<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="wrap_des_pr">
+<div class="container container_des">
+<div id="shopify-section-pr_description" class="shopify-section shopify-tabs sp-tabs nt_section">
+<div>
+<div class="sp-tab-content">
+<div class="uk-width-large-3-10 uk-width-medium-1-1 product-infos" data-mce-fragment="1">
+<div class="uk-grid" data-mce-fragment="1">Das 20-teilige Kochgeschirrset besteht aus zwei Stieltöpfen mit Deckeln, einer Pfanne mit Deckel, zwei Siebeinsätzen, einem Dampfgareinsatz und fünf praktischen Küchenutensilien mit passendem Ständer. Die lebensmittelechte Ausstattung für die Kinderküche wird durch einen Topflappen, einen Topfhandschuh und zwei Tassen mit Untertassen und Löffeln ergänzt. Das Spielen mit diesem Küchenzubehör-Set regt die Fantasie der Kinder an. Im aktiven Rollenspiel ahmen die Kinder spielerisch Alltagssituationen nach und stärken so ihr Sozialverhalten.<br>
+<div class="detail-wrapper uk-width-large-1-1 uk-width-medium-1-1" data-mce-fragment="1">
+<div class="details" data-mce-fragment="1">
+<div class="description" data-mce-fragment="1"> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="attributes cf uk-width-1-1" data-mce-fragment="1">
+<div class="uk-grid" data-mce-fragment="1">
+<div class="uk-width-medium-1-2" data-mce-fragment="1">
+<table class="uk-table" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr style="height: 38px;" data-mce-fragment="1">
+<td style="height: 38px;" data-mce-fragment="1">Abmessungen</td>
+<td style="height: 38px;" data-mce-fragment="1">Large pot with lid approx. 12 x 10 x 8 cm, cup approx. 8 x 6.5 x 3.5 cm</td>
+</tr>
+<tr style="height: 19px;" data-mce-fragment="1">
+<td style="height: 19px;" data-mce-fragment="1">Marke<br>
+</td>
+<td style="height: 19px;" data-mce-fragment="1">small foot</td>
+</tr>
+<tr style="height: 19px;" data-mce-fragment="1">
+<td style="height: 19px;" data-mce-fragment="1">Material</td>
+<td style="height: 19px;" data-mce-fragment="1">metal, cloth</td>
+</tr>
+<tr style="height: 19px;" data-mce-fragment="1">
+<td style="height: 19px;" data-mce-fragment="1">Hauptkatalogseite</td>
+<td style="height: 19px;" data-mce-fragment="1">210</td>
+</tr>
+<tr style="height: 19px;" data-mce-fragment="1">
+<td style="height: 19px;" data-mce-fragment="1">Anfangsalter</td>
+<td style="height: 19px;" data-mce-fragment="1">3+</td>
+</tr>
+<tr style="height: 57px;" data-mce-fragment="1">
+<td style="height: 57px;" data-mce-fragment="1">Inhalt des Artikels</td>
+<td style="height: 57px;" data-mce-fragment="1">2 cups, 2 spoons, 5 kitchen utensils, 1 hanger, 2 pots with lids, 1 pan with lid, 1 sieve pot, 2 coasters, 2 sieve discs, 1 cooking glove, 1 pot holder.&lt; /td&gt;</td>
+</tr>
+<tr style="height: 19px;" data-mce-fragment="1">
+<td style="height: 19px;" data-mce-fragment="1">Art der Verpackung</td>
+<td style="height: 19px;" data-mce-fragment="1">small foot packaging</td>
+</tr>
+<tr style="height: 46px;" data-mce-fragment="1">
+<td style="height: 46px;" data-mce-fragment="1">Gewicht einschließlich Verpackung (brutto)</td>
+<td style="height: 46px;" data-mce-fragment="1">0.670kg</td>
+</tr>
+<tr style="height: 19px;" data-mce-fragment="1">
+<td style="height: 19px;" data-mce-fragment="1">Inhalt<br>
+</td>
+<td style="height: 19px;" data-mce-fragment="1">20 parts</td>
+</tr>
+<tr style="height: 19px;" data-mce-fragment="1">
+<td style="height: 19px;" data-mce-fragment="1">EAN-Kode</td>
+<td style="height: 19px;" data-mce-fragment="1">0209721175264</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="tab_pr_reivew" class="panel entry-content sp-tab des_mb_2 des_style_1 dn">
+<div class="sp-tab-content">
+<div id="shopify-product-reviews" data-id="6617632047289"></div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hafsatoys.de/products/8028094431497</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">24.99</s:price>
+      <s:sku>11752</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hafsatoys.de/products/8028094365961</id>
+    <published>2022-11-20T11:22:17+01:00</published>
+    <updated>2022-11-20T11:22:17+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hafsatoys.de/products/kaffeemaschine-kinderkuche"/>
+    <title>Kaffeemaschine Kinderküche</title>
+    <s:type></s:type>
+    <s:vendor>Small Foot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0642/0139/2393/products/KaffeemaschineKinderkuche1-1000.png?v=1668939744"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Small Foot<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="shopify-section shopify-tabs sp-tabs nt_section" id="shopify-section-pr_description">
+<div>
+<div class="sp-tab-content">
+<div class="uk-width-large-3-10 uk-width-medium-1-1 product-infos" data-mce-fragment="1">
+<div class="uk-grid" data-mce-fragment="1">
+<div class="detail-wrapper uk-width-large-1-1 uk-width-medium-1-1" data-mce-fragment="1">
+<div class="details" data-mce-fragment="1">
+<div class="description" data-mce-fragment="1">
+<p data-mce-fragment="1">Kaffee, bitte! Diese Holzkaffeemaschine ist eine tolle Ergänzung für die Spielküche im Kinderzimmer und ein weiteres Element für Rollenspiele. Der Spaß ist durch die einfache Bedienung mit Drehknöpfen garantiert.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="attributes cf uk-width-1-1" data-mce-fragment="1">
+<div class="uk-grid" data-mce-fragment="1">
+<div class="uk-width-medium-1-2" data-mce-fragment="1">
+<table class="uk-table" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Abmessungen</td>
+<td data-mce-fragment="1">approx. 17 x 9 x 18 cm</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Marke<br>
+</td>
+<td data-mce-fragment="1">small foot</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Material</td>
+<td data-mce-fragment="1">Wood</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Hauptkatalogseite</td>
+<td data-mce-fragment="1">209</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Anfangsalter</td>
+<td data-mce-fragment="1">from 3 years</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Inhalt des Artikels</td>
+<td data-mce-fragment="1">1 coffee maker, 1 coffee mug, 3 coffee beans.</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Art der Verpackung</td>
+<td data-mce-fragment="1">small foot packaging</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Gewicht einschließlich Verpackung (brutto)</td>
+<td data-mce-fragment="1">0.76kg</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Inhalt<br>
+</td>
+<td data-mce-fragment="1">5 parts</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">EAN-Kode</td>
+<td data-mce-fragment="1"><span>4020972105936</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="panel entry-content sp-tab des_mb_2 des_style_1 dn" id="tab_pr_reivew">
+<div class="sp-tab-content">
+<div data-id="6617381503161" id="shopify-product-reviews"></div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hafsatoys.de/products/8028094365961</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>10593</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hafsatoys.de/products/8028094333193</id>
+    <published>2022-11-20T11:22:09+01:00</published>
+    <updated>2022-11-20T11:22:09+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hafsatoys.de/products/hammerchenspiel-roboter"/>
+    <title>Hammer Spielroboter</title>
+    <s:type></s:type>
+    <s:vendor>Small Foot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0642/0139/2393/products/HammerchenspielRoboter1-1000.png?v=1668939736"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Small Foot<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="wrap_des_pr">
+<div class="container container_des">
+<div id="shopify-section-pr_description" class="shopify-section shopify-tabs sp-tabs nt_section">
+<div>
+<div class="sp-tab-content">
+<div class="uk-width-large-3-10 uk-width-medium-1-1 product-infos" data-mce-fragment="1">
+<div class="uk-grid" data-mce-fragment="1">
+<div class="detail-wrapper uk-width-large-1-1 uk-width-medium-1-1" data-mce-fragment="1">
+<div class="details" data-mce-fragment="1">
+<p data-mce-fragment="1">Roboterspaß mit Hammer und Nagel! Mit diesem Hammerspiel lassen sich zahlreiche Motive zum Thema Roboter und Weltraum bearbeiten. Das Spielset ist mit einer Korkplatte, einem Hammer, Nägeln und verschiedenen Holzelementen ausgestattet. Es enthält eine Vielzahl von Bauteilen, um Szenen rund um die Robotermenschen zu gestalten. Die Bildvorlagen können einen ersten Eindruck vermitteln, wie die Bauteile zusammengesetzt werden können.<br><br></p>
+</div>
+</div>
+</div>
+</div>
+<div class="attributes cf uk-width-1-1" data-mce-fragment="1">
+<div class="uk-grid" data-mce-fragment="1">
+<div class="uk-width-medium-1-2" data-mce-fragment="1">
+<table class="uk-table" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Abmessungen</td>
+<td data-mce-fragment="1">Cork board approx. 24 x 17 x 1 cm, hammer approx. 14 x 2 x 4 cm</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Marke<br>
+</td>
+<td data-mce-fragment="1">small foot</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Hauptkatalogseite</td>
+<td data-mce-fragment="1">423</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Anfangsalter</td>
+<td data-mce-fragment="1">6+</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Art der Verpackung</td>
+<td data-mce-fragment="1">small foot packaging</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Gewicht einschließlich Verpackung (brutto)</td>
+<td data-mce-fragment="1">0.54kg</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Inhalt<br>
+</td>
+<td data-mce-fragment="1">160 parts</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">EAN-Kode</td>
+<td data-mce-fragment="1">4020972115720</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="tab_pr_reivew" class="panel entry-content sp-tab des_mb_2 des_style_1 dn">
+<div class="sp-tab-content">
+<div id="shopify-product-reviews" data-id="6617545801913"></div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hafsatoys.de/products/8028094333193</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hafsatoys.de/products/8028094267657</id>
+    <published>2022-11-20T11:21:59+01:00</published>
+    <updated>2022-11-20T11:21:59+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hafsatoys.de/products/hammerchenspiel-pirat"/>
+    <title>Hammer Spiel Pirat</title>
+    <s:type></s:type>
+    <s:vendor>Small Foot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0642/0139/2393/products/HammerchenspielPirat1-1000.png?v=1668939728"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Small Foot<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="wrap_des_pr">
+<div class="container container_des">
+<div class="shopify-section shopify-tabs sp-tabs nt_section" id="shopify-section-pr_description">
+<div>
+<div class="sp-tab-content">
+<p>Mit diesem Hammerspiel können verschiedene Piratenmotive auf die Korkplatte gehämmert werden. Wie ein Bild aussehen kann, kann den mitgelieferten Motivvorschlägen entnommen werden. Die Kinder können ihre Fähigkeiten fördern und durch eigenes Tun ihre Fertigkeiten erweitern.</p>
+<div class="uk-width-medium-1-2">
+<table style="width: 70.1986%; align: left;" class="uk-table">
+<tbody>
+<tr>
+<td style="width: 42.9813%;">Abmessungen</td>
+<td style="width: 51.8679%;">Korkplatte ca. 24 x 17 x 1 cm, Hammer ca. 14 x 2 x 4 cm</td>
+</tr>
+<tr>
+<td style="width: 42.9813%;">Marke<br>
+</td>
+<td style="width: 51.8679%;">small foot</td>
+</tr>
+<tr>
+<td style="width: 42.9813%;">Material</td>
+<td style="width: 51.8679%;">Holz, Metall</td>
+</tr>
+<tr>
+<td style="width: 42.9813%;">Hauptkatalogseite</td>
+<td style="width: 51.8679%;">422</td>
+</tr>
+<tr>
+<td style="width: 42.9813%;">Anfangsalter</td>
+<td style="width: 51.8679%;">ab 6 Jahren<br>
+</td>
+</tr>
+<tr>
+<td style="width: 42.9813%;">Geschlecht</td>
+<td style="width: 51.8679%;">männlich, weiblich</td>
+</tr>
+<tr>
+<td style="width: 42.9813%;">Art der Verpackung</td>
+<td style="width: 51.8679%;">small foot Verpackung</td>
+</tr>
+<tr>
+<td style="width: 42.9813%;">Gewicht einschließlich Verpackung (brutto)</td>
+<td style="width: 51.8679%;">0.59kg</td>
+</tr>
+<tr>
+<td style="width: 42.9813%;">Inhalt<br>
+</td>
+<td style="width: 51.8679%;">165 Teile</td>
+</tr>
+<tr>
+<td style="width: 42.9813%;">EAN-Kode</td>
+<td style="width: 51.8679%;">4020972102263</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div class="panel entry-content sp-tab des_mb_2 des_style_1 dn" id="tab_pr_reivew">
+<div class="sp-tab-content">
+<div data-id="6616649040057" id="shopify-product-reviews"></div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hafsatoys.de/products/8028094267657</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>10226</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hafsatoys.de/products/8028094202121</id>
+    <published>2022-11-20T11:21:52+01:00</published>
+    <updated>2022-11-20T11:21:52+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hafsatoys.de/products/hammerchenspiel-einhorn"/>
+    <title>Hammer Spiel Einhorn</title>
+    <s:type></s:type>
+    <s:vendor>Small Foot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0642/0139/2393/products/HammerchenspielEinhorn1-1000.png?v=1668939718"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Small Foot<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="shopify-section-pr_description" class="shopify-section shopify-tabs sp-tabs nt_section">
+<div>
+<div class="sp-tab-content">
+<div class="uk-width-large-3-10 uk-width-medium-1-1 product-infos" data-mce-fragment="1">
+<div class="uk-grid" data-mce-fragment="1">
+<div class="detail-wrapper uk-width-large-1-1 uk-width-medium-1-1" data-mce-fragment="1">
+<div class="details" data-mce-fragment="1">
+<div class="description" data-mce-fragment="1">
+<p>Roboterspaß mit Hammer und Nagel! Mit diesem Hammerspiel lassen sich zahlreiche Motive zum Thema Roboter und Weltraum bearbeiten. Das Spielset ist mit einer Korkplatte, einem Hammer, Nägeln und verschiedenen Holzelementen ausgestattet. Es enthält eine Vielzahl von Bauteilen, um Szenen rund um die Robotermenschen zu gestalten. Die Bildvorlagen können einen ersten Eindruck vermitteln, wie die Bauteile zusammengesetzt werden können.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="attributes cf uk-width-1-1" data-mce-fragment="1">
+<div class="uk-grid" data-mce-fragment="1">
+<div class="uk-width-medium-1-2" data-mce-fragment="1">
+<table class="uk-table" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Abmessungen</td>
+<td data-mce-fragment="1">Cork board approx. 24 x 17 x 1 cm, hammer approx. 14 x 2 x 4 cm</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Marke<br>
+</td>
+<td data-mce-fragment="1">small foot</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Hauptkatalogseite</td>
+<td data-mce-fragment="1">422</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Anfangsalter</td>
+<td data-mce-fragment="1">6+</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Art der Verpackung</td>
+<td data-mce-fragment="1">small foot packaging</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Gewicht einschließlich Verpackung (brutto)</td>
+<td data-mce-fragment="1">0.57kg</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Inhalt<br>
+</td>
+<td data-mce-fragment="1">152 parts</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">EAN-Kode</td>
+<td data-mce-fragment="1"><span>4020972115713</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="tab_pr_reivew" class="panel entry-content sp-tab des_mb_2 des_style_1 dn">
+<div class="sp-tab-content">
+<div id="shopify-product-reviews" data-id="6617534693561"></div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hafsatoys.de/products/8028094202121</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>11571</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hafsatoys.de/products/8028094136585</id>
+    <published>2022-11-20T11:21:45+01:00</published>
+    <updated>2022-11-20T11:21:45+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hafsatoys.de/products/hammerchenspiel-bauernhof"/>
+    <title>Hammer Wildfarm</title>
+    <s:type></s:type>
+    <s:vendor>Small Foot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0642/0139/2393/products/HammerchenspielBauernhof1-1000.png?v=1668939711"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Small Foot<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="sp-tab-content">
+<p>Mit diesem Hammerspiel können verschiedene Bauernhofmotive auf eine Korkplatte gehämmert werden. Vier Karten zeigen Motivvorschläge, wie ein Bild aussehen kann.</p>
+<div class="uk-width-medium-1-2">
+<table class="uk-table">
+<tbody>
+<tr>
+<td>Abmessungen</td>
+<td>Cork plate approx. 24 x 17 x 1 cm, hammer approx. 14 x 2 x 4 cm</td>
+</tr>
+<tr>
+<td>Marke<br>
+</td>
+<td>small foot</td>
+</tr>
+<tr>
+<td>Material</td>
+<td>wood, metal</td>
+</tr>
+<tr>
+<td>Hauptkatalogseite</td>
+<td>423</td>
+</tr>
+<tr>
+<td>Anfangsalter</td>
+<td>from 6 years</td>
+</tr>
+<tr>
+<td>Geschlecht</td>
+<td>male, female</td>
+</tr>
+<tr>
+<td>Art der Verpackung</td>
+<td>small foot packaging</td>
+</tr>
+<tr>
+<td>Gewicht einschließlich Verpackung (brutto)</td>
+<td>0.58kg</td>
+</tr>
+<tr>
+<td>Inhalt<br>
+</td>
+<td>174 pieces</td>
+</tr>
+<tr>
+<td>EAN-Kode</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="uk-width-medium-1-2"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hafsatoys.de/products/8028094136585</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>10228</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hafsatoys.de/products/8028094103817</id>
+    <published>2022-11-20T11:21:37+01:00</published>
+    <updated>2022-11-20T11:21:37+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://hafsatoys.de/products/fruhstucks-set-kinderkuche"/>
+    <title>Frühstücksset Kinderküche</title>
+    <s:type></s:type>
+    <s:vendor>Small Foot</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0642/0139/2393/products/Fruhstucks-SetKinderkuche1-1000.png?v=1668939704"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Small Foot<br>
+        <strong>Art: </strong><br>
+        <strong>Preis: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="sp-tab-content">
+<div class="uk-width-large-3-10 uk-width-medium-1-1 product-infos" data-mce-fragment="1">
+<div class="uk-grid" data-mce-fragment="1">
+<div class="detail-wrapper uk-width-large-1-1 uk-width-medium-1-1" data-mce-fragment="1">
+<div class="details" data-mce-fragment="1">
+<div class="description" data-mce-fragment="1">
+<p data-mce-fragment="1">Es ist Frühstückszeit! Mit diesem Frühstücksset aus Holz macht das Frühstück in der Kinderküche gleich viel mehr Spaß. Die Toastscheiben werden im Toaster geröstet, bis sie mit dem beweglichen Griff herauskatapultiert werden. Dann ist sie mit einer Scheibe Käse verzehrfertig. Der Käse wird durch den Klettverschluss gehalten und kann mit dem Holzmesser geschnitten werden. Der kompakte Toaster aus massivem Sperrholz lässt keine Wünsche offen. Die An- und Ausschaltfunktion wird durch den Dreh- und Klickknopf an der Seite angezeigt.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="attributes cf uk-width-1-1" data-mce-fragment="1">
+<div class="uk-grid" data-mce-fragment="1">
+<div class="uk-width-medium-1-2" data-mce-fragment="1">
+<table class="uk-table" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Abmessungen</td>
+<td data-mce-fragment="1">approx. 18 x 5.5 x 11 cm</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Marke</td>
+<td data-mce-fragment="1">small foot</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Material</td>
+<td data-mce-fragment="1">Holz</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Hauptkatalogseite</td>
+<td data-mce-fragment="1">209</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Anfangsalter</td>
+<td data-mce-fragment="1">ab 3 Jahren</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Inhalt des Artikels</td>
+<td data-mce-fragment="1">1 toaster, 1 plate, 1 knife, 2 slices of toast, 2 slices of cheese.</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Art der Verpackung</td>
+<td data-mce-fragment="1">smallfoot Verpackung</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Gewicht einschließlich Verpackung (brutto)</td>
+<td data-mce-fragment="1">0.64kg</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">Inhalt</td>
+<td data-mce-fragment="1">7 Teile</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1">EAN-Kode</td>
+<td data-mce-fragment="1"><span>4020972105943</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="uk-width-medium-1-2" data-mce-fragment="1"></div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hafsatoys.de/products/8028094103817</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>10594</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
